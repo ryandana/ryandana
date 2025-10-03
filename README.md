@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Ryan Dana 👋
 
 ## Full-Stack Developer | JavaScript & PHP Specialist
 
@@ -42,13 +42,12 @@ I'm a passionate full-stack developer specializing in building modern web applic
 
 ### 📫 Let's Connect
 
-- Portfolio: [your-portfolio.com]
-- LinkedIn: [linkedin.com/in/yourprofile]
-- Email: your.email@example.com
+- Portfolio: https://ryandana.github.io
+- LinkedIn: [linkedin.com/in/ryandana]
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ryandana&show_icons=true&theme=dark)
 
 ---
 
